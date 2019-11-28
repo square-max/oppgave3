@@ -1,7 +1,7 @@
 {
   "name": "oppgave3",
   "version": "0.1.0",
-  "homepage": "https://sqare-max.github.io/oppgave3",
+  "homepage": "https://square-max.github.io/oppgave3",
   "private": true,
   "dependencies": {
     "gh-pages": "^2.1.1",
